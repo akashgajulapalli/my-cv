@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 //import 'materialize-css/dist/css/materialize.min.css';
 import { HashLink as Link } from "react-router-hash-link";
 
